@@ -1,4 +1,4 @@
-## Hi there 👋
+## ⚡Edielson Martins - Edielson7⚡
 
 <!--
 **Edielson7/Edielson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Apaixonado por números, tecnologia e resolver desafios.
+- Graduado em Analise e Desenvolvimento de Sistemas pelo Centro Universitário Estácio
+- Graduado/Licenciado em Matemática pelo Centro universitário Faveni
+- Estudante e Dsenvolvedor Front-End e Back-End
+- Em transição de carreira, depois de muito anos ensinando e resolvendo problemas matemáticos, me desafio a resolver problemas da "Vida Real" através da programação e tecnologia.
+- Minha experiência de vida e trabalho me deram importantes Soft Skills como: Comunicação, Trabalho em Equipe, Inteligencia Emocional, Criatividade, Rosolução de Problemas ETC.. 
+### ⚡ BootCamps e Certificações⚡
+<a href="https://web.dio.me/track/coding-future-front-end-do-zero" target="blank"><img src="https://assets.dio.me/x84deVbyyXPy2Qv6Ug4uuQnB0tRIBOyfiPJQe9jKNrc/f:webp/h:120/q:80/L3RyYWNrcy84MDUyZGIxYi1mNDM0LTQ5ODAtOGJiYi05ZjdkYWE3MjViOGQucG5n" height="150"></a>
+
+
