@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Apaixonado por números, tecnologia e resolver desafios.
+- Apaixonado por números, tecnologia e desafios.
 - Graduado em Analise e Desenvolvimento de Sistemas pelo Centro Universitário Estácio
 - Graduado/Licenciado em Matemática pelo Centro universitário Faveni
 - Estudante e Dsenvolvedor Front-End e Back-End
